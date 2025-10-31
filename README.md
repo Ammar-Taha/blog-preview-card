@@ -22,7 +22,7 @@ A simple profile links sharing card built with **HTML** and **CSS**, bundled usi
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://ammar-taha.github.io/profile-links-card/)
+- Live Site URL: [GitHub Pages](https://ammar-taha.github.io/blog-preview-card/)
 
 ---
 
